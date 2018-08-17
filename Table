@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <title>Table Webpage</title>
+		<style>
+		   table {
+		         width: 40%;
+				 border: red  dashed  thin;
+				 border-bottom: blue dashed thin;
+				text-align: center;
+				  }
+		   caption {
+				text-align: left;
+				
+		         }
+		   thead { 
+				font-weight: bold;
+				color:  green;
+		
+				
+  		        }
+		</style>
+    </head>
+    <body>
+    </body>
+	<table>
+    <caption>Graduation Rate Percentage (%)</caption> 
+		
+	<thead>
+	           <tr>
+			       <td>   male     </td>
+			       <td>   female   </td>
+               </tr>
+	</thead>		   
+	           <tr>
+			       <td>   40     </td>
+			       <td>   60     </td>
+               </tr>			   
+	</table>
+</html>
