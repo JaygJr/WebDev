@@ -1,2 +1,2 @@
-# HLWebDev
+# WebDevelopment
 Web Dev
